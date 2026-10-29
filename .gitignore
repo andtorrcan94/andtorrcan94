@@ -1,0 +1,3 @@
+__pycache__/
+# generators stay local: they rebuild assets/pixel-cv.svg (./scripts/build.sh)
+scripts/
